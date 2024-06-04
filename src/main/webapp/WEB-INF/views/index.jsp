@@ -12,5 +12,6 @@
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.1</h3>
+    <h4>my final project</h4>
 </body>
 </html>
